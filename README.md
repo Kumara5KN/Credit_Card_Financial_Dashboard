@@ -35,31 +35,7 @@ A two-dashboard Power BI solution was developed:
 | Transaction Dashboard | Transaction behavior, spending categories, payment methods     |
 
 
-Dashboard Architecture
 
-Raw CSV Data
-│
-├── Customer Data
-├── Credit Card Data
-├── Transaction Data
-└── Address Data
-        │
-        ▼
-Data Cleaning & Validation
-(Power Query)
-        │
-        ▼
-Data Modeling
-(Relationships + Star Schema)
-        │
-        ▼
-DAX Measures & KPIs
-        │
-        ▼
-Interactive Power BI Dashboards
-        │
-        ├── Customer Analytics
-        └── Transaction Analytics
 
 
 
