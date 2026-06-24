@@ -1,5 +1,58 @@
 # 💳 Credit Card Financial Dashboard
 
+Executive Summary
+
+This project presents a comprehensive Credit Card Financial Analytics Dashboard developed in Power BI to analyze customer behavior, transaction patterns, revenue generation, and profitability metrics.
+
+The dashboard enables stakeholders to monitor key business KPIs, identify high-value customer segments, evaluate spending trends, and support data-driven decision-making.
+
+Business Impact
+
+✔ Identified customer segments contributing maximum revenue
+
+✔ Analyzed transaction behavior across payment channels
+
+✔ Evaluated customer satisfaction and engagement metrics
+
+✔ Monitored quarterly revenue growth and profitability
+
+✔ Delivered interactive dashboards for executive reporting
+
+Project Overview
+Business Problem
+
+Financial institutions generate large volumes of customer and transaction data daily. Without proper analytics, identifying profitable customers, spending behavior, and revenue opportunities becomes challenging.
+
+This project addresses these challenges through interactive Power BI dashboards that transform raw transactional data into actionable business insights.
+
+Solution
+
+A two-dashboard Power BI solution was developed:
+
+| Dashboard             | Purpose                                                        |
+| --------------------- | -------------------------------------------------------------- |
+| Customer Dashboard    | Customer demographics, revenue analysis, customer satisfaction |
+| Transaction Dashboard | Transaction behavior, spending categories, payment methods     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 💳 Credit Card Financial Dashboard
+
 A Power BI dashboard project that provides comprehensive insights into credit card customer behavior, revenue trends, transaction patterns, and customer segmentation.
 
 # 📈 Dataset Insights
