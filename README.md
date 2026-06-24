@@ -1,6 +1,6 @@
 # 💳 Credit Card Financial Dashboard
 
-### Executive Summary
+### <u>Executive Summary</u>
 
 This project presents a comprehensive Credit Card Financial Analytics Dashboard developed in Power BI to analyze customer behavior, transaction patterns, revenue generation, and profitability metrics.
 
