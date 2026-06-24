@@ -61,35 +61,40 @@ A two-dashboard Power BI solution was developed:
 
 # 📈 Key Insights
 
-Customer Dashboard Insights
+<h2>📊 Customer Dashboard Insights</h2>
 
-Businessman customers generate the highest revenue among all occupation groups.
-Graduate customers contribute the largest share of revenue compared to other education levels.
-Married customers represent the most profitable customer segment.
-Customers aged 40–50 years contribute the highest revenue.
-Revenue shows noticeable growth during certain periods of the year, indicating seasonal spending behavior.
-Swipe card users generate higher revenue than online and chip-based transactions.
-High-income customers contribute significantly more revenue than medium- and low-income groups.
+<ul>
+    <li>Businessman customers generate the highest revenue among all occupation groups.</li>
+    <li>Graduate customers contribute the largest share of revenue compared to other education levels.</li>
+    <li>Married customers represent the most profitable customer segment.</li>
+    <li>Customers aged 40–50 years contribute the highest revenue.</li>
+    <li>Revenue shows noticeable growth during certain periods of the year, indicating seasonal spending behavior.</li>
+    <li>Swipe card users generate higher revenue than online and chip-based transactions.</li>
+    <li>High-income customers contribute significantly more revenue than medium- and low-income groups.</li>
+</ul>
 
-Transaction Dashboard Insights
+<h2>💳 Transaction Dashboard Insights</h2>
 
-Total Revenue reached 57M with 667K transactions, indicating strong transaction volume.
-Swipe transactions account for the majority of transaction revenue.
-The Blue Card category generates the highest revenue among all card types.
-Bills, Entertainment, and Fuel are the top spending categories.
-Revenue and transaction count consistently increased from Q1 to Q4.
-Businessman and White-collar customers contribute the highest transaction revenue.
-Graduate customers demonstrate higher spending behavior compared to other education groups.
-Platinum cards represent a smaller customer base but contribute premium-value transactions.
+<ul>
+    <li>Total Revenue reached 57M with 667K transactions, indicating strong transaction volume.</li>
+    <li>Swipe transactions account for the majority of transaction revenue.</li>
+    <li>The Blue Card category generates the highest revenue among all card types.</li>
+    <li>Bills, Entertainment, and Fuel are the top spending categories.</li>
+    <li>Revenue and transaction count consistently increased from Q1 to Q4.</li>
+    <li>Businessman and White-collar customers contribute the highest transaction revenue.</li>
+    <li>Graduate customers demonstrate higher spending behavior compared to other education groups.</li>
+    <li>Platinum cards represent a smaller customer base but contribute premium-value transactions.</li>
+</ul>
 
-Executive Business Findings
+<h2>🎯 Executive Business Findings</h2>
 
-Revenue is primarily driven by middle-aged, married, graduate, and high-income customers.
-Swipe remains the preferred payment method for credit card transactions.
-Blue Card customers form the largest and most valuable customer segment.
-Customer occupation, education level, and income group strongly influence revenue generation.
-Quarterly performance analysis indicates positive business growth and increasing customer engagement.
-
+<ul>
+    <li>Revenue is primarily driven by middle-aged, married, graduate, and high-income customers.</li>
+    <li>Swipe remains the preferred payment method for credit card transactions.</li>
+    <li>Blue Card customers form the largest and most valuable customer segment.</li>
+    <li>Customer occupation, education level, and income group strongly influence revenue generation.</li>
+    <li>Quarterly performance analysis indicates positive business growth and increasing customer engagement.</li>
+</ul>
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
 ![Data Analysis](https://img.shields.io/badge/Data-Analytics-green)
