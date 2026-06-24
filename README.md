@@ -25,3 +25,30 @@ This project analyzes credit card customer and transaction data using Power BI t
 - Compare performance across customer demographics
 
 
+2. Add Project Architecture
+
+## 📊 Dashboard Architecture
+
+Data Sources
+│
+├── Customer Data
+├── Credit Card Data
+├── Transaction Data
+└── Address Data
+│
+▼
+
+Data Cleaning & Transformation
+(Power Query)
+
+▼
+
+Data Modeling
+(Relationships & DAX)
+
+▼
+
+Interactive Dashboards
+
+├── Customer Dashboard
+└── Transaction Dashboard
