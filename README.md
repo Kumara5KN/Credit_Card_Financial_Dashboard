@@ -46,7 +46,13 @@ Data Cleaning & Transformation
 Data Modeling
 (Relationships & DAX)
 
+
 ▼
+
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue)
+![Data Analysis](https://img.shields.io/badge/Data-Analytics-green)
+![MCA](https://img.shields.io/badge/Presidency-University-red)
 
 Interactive Dashboards
 
