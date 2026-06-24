@@ -32,8 +32,7 @@ Business Impact
 
 ✔ Delivered interactive dashboards for executive reporting
 
-Project Overview
-Business Problem
+### Project Overview Business Problem
 
 Financial institutions generate large volumes of customer and transaction data daily. Without proper analytics, identifying profitable customers, spending behavior, and revenue opportunities becomes challenging.
 
