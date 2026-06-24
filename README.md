@@ -35,6 +35,23 @@ A two-dashboard Power BI solution was developed:
 | Transaction Dashboard | Transaction behavior, spending categories, payment methods     |
 
 
+Key Performance Indicators
+
+| KPI                | Value |
+| ------------------ | ----- |
+| Revenue            | 57M   |
+| Interest Earned    | 46M   |
+| Total Income       | 588M  |
+| Transaction Amount | 46M   |
+| Total Transactions | 667K  |
+
+
+Dashboard Preview
+
+Customer Analytics Dashboard
+<img src="Credit_Card_Financial_Customer_Dashboard.png" width="100%">
+Transaction Analytics Dashboard
+<img src="Credit_Card_Financial_Transaction_Dashboard.png" width="100%">
 
 
 
@@ -42,18 +59,6 @@ A two-dashboard Power BI solution was developed:
 
 
 
-
-
-
-
-
-
-
-
-
-# 💳 Credit Card Financial Dashboard
-
-A Power BI dashboard project that provides comprehensive insights into credit card customer behavior, revenue trends, transaction patterns, and customer segmentation.
 
 # 📈 Dataset Insights
 
