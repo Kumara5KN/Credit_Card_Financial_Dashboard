@@ -46,20 +46,6 @@ Key Performance Indicators
 | Total Transactions | 667K  |
 
 
-Dashboard Preview
-
-Customer Analytics Dashboard
-<img src="Credit_Card_Financial_Customer_Dashboard.png" width="100%">
-Transaction Analytics Dashboard
-<img src="Credit_Card_Financial_Transaction_Dashboard.png" width="100%">
-
-
-
-
-
-
-
-
 # 📈 Dataset Insights
 
 ## Credit Card Customer Dashboard
