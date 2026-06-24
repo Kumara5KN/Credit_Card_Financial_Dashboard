@@ -61,7 +61,7 @@ A two-dashboard Power BI solution was developed:
 
 # 📈 Dataset Insights
 
-##💡 Key Insights
+#💡 Key Insights
 
 ###Customer Dashboard Insights
 
