@@ -2,7 +2,7 @@
 
 A Power BI dashboard project that provides comprehensive insights into credit card customer behavior, revenue trends, transaction patterns, customer segmentation and key business KPIs.
 
-# 📈 Dataset Insights
+## 📈 Dashboard Preview
 
 ## Credit Card Customer Dashboard
 
