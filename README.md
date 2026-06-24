@@ -95,12 +95,3 @@ A two-dashboard Power BI solution was developed:
     <li>Customer occupation, education level, and income group strongly influence revenue generation.</li>
     <li>Quarterly performance analysis indicates positive business growth and increasing customer engagement.</li>
 </ul>
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![DAX](https://img.shields.io/badge/DAX-Measures-blue)
-![Data Analysis](https://img.shields.io/badge/Data-Analytics-green)
-![MCA](https://img.shields.io/badge/Presidency-University-red)
-
-Interactive Dashboards
-
-├── Customer Dashboard
-└── Transaction Dashboard
