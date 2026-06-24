@@ -59,11 +59,9 @@ A two-dashboard Power BI solution was developed:
 | Total Transactions | 667K  |
 
 
-# 📈 Dataset Insights
+# 📈 Key Insights
 
-#💡 Key Insights
-
-###Customer Dashboard Insights
+Customer Dashboard Insights
 
 Businessman customers generate the highest revenue among all occupation groups.
 Graduate customers contribute the largest share of revenue compared to other education levels.
@@ -73,7 +71,7 @@ Revenue shows noticeable growth during certain periods of the year, indicating s
 Swipe card users generate higher revenue than online and chip-based transactions.
 High-income customers contribute significantly more revenue than medium- and low-income groups.
 
-###Transaction Dashboard Insights
+Transaction Dashboard Insights
 
 Total Revenue reached 57M with 667K transactions, indicating strong transaction volume.
 Swipe transactions account for the majority of transaction revenue.
@@ -84,7 +82,7 @@ Businessman and White-collar customers contribute the highest transaction revenu
 Graduate customers demonstrate higher spending behavior compared to other education groups.
 Platinum cards represent a smaller customer base but contribute premium-value transactions.
 
-###Executive Business Findings
+Executive Business Findings
 
 Revenue is primarily driven by middle-aged, married, graduate, and high-income customers.
 Swipe remains the preferred payment method for credit card transactions.
