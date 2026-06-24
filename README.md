@@ -1,5 +1,19 @@
 # 💳 Credit Card Financial Dashboard
 
+A Power BI dashboard project that provides comprehensive insights into credit card customer behavior, revenue trends, transaction patterns, and customer segmentation.
+
+# 📈 Dataset Insights
+
+## Credit Card Customer Dashboard
+
+![Credit Card Customer Dashboard Analysis](Credit_Card_Financial_Customer_Dashboard.png)
+
+## Credit Card Transaction Dashboard
+
+![Credit Card Transaction Dashboard Analysis](Credit_Card_Financial_Transaction_Dashboard.png)
+
+
+
 ### Executive Summary
 
 This project presents a comprehensive Credit Card Financial Analytics Dashboard developed in Power BI to analyze customer behavior, transaction patterns, revenue generation, and profitability metrics.
